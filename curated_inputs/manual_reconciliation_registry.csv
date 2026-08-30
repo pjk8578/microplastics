@@ -1,0 +1,13 @@
+Study_ID,Population_report_flag,Figure7_setting,Community_ecosystem_report_flag,Community_evidence_basis,Post_search_corpus_report
+B1-020A,TRUE,Laboratory,FALSE,,FALSE
+B1-047,TRUE,Microcosm,FALSE,,FALSE
+B1-056,TRUE,Laboratory,FALSE,,FALSE
+B1-078,FALSE,,TRUE,Trophic-transfer evidence extending across prey and predator levels,FALSE
+B1-104,TRUE,Laboratory,FALSE,,FALSE
+B1-106,TRUE,Laboratory,FALSE,,FALSE
+B1-112,TRUE,Laboratory,FALSE,,FALSE
+B1-127,FALSE,,TRUE,Direct predator-prey performance evidence,FALSE
+B1-128,TRUE,Laboratory,FALSE,,FALSE
+B1-139,TRUE,Laboratory,FALSE,,FALSE
+B1-166,TRUE,Laboratory,TRUE,Model-derived cross-system and ecosystem-transfer evidence,TRUE
+B1-171,TRUE,Other or unclear,FALSE,,FALSE

@@ -1,0 +1,78 @@
+domain,level,records
+Growth and condition,Molecular,0
+Growth and condition,Cellular or biochemical,0
+Growth and condition,Tissue or organ,0
+Growth and condition,Organismal physiology,0
+Growth and condition,Organismal apical,128
+Growth and condition,Population,8
+Growth and condition,Community or ecosystem,0
+Behavior,Molecular,0
+Behavior,Cellular or biochemical,55
+Behavior,Tissue or organ,0
+Behavior,Organismal physiology,27
+Behavior,Organismal apical,32
+Behavior,Population,0
+Behavior,Community or ecosystem,0
+Mortality and survival,Molecular,0
+Mortality and survival,Cellular or biochemical,0
+Mortality and survival,Tissue or organ,0
+Mortality and survival,Organismal physiology,0
+Mortality and survival,Organismal apical,113
+Mortality and survival,Population,0
+Mortality and survival,Community or ecosystem,0
+Oxidative stress,Molecular,0
+Oxidative stress,Cellular or biochemical,89
+Oxidative stress,Tissue or organ,6
+Oxidative stress,Organismal physiology,4
+Oxidative stress,Organismal apical,0
+Oxidative stress,Population,0
+Oxidative stress,Community or ecosystem,0
+Histopathology,Molecular,0
+Histopathology,Cellular or biochemical,0
+Histopathology,Tissue or organ,66
+Histopathology,Organismal physiology,1
+Histopathology,Organismal apical,0
+Histopathology,Population,0
+Histopathology,Community or ecosystem,0
+Gene expression and omics,Molecular,47
+Gene expression and omics,Cellular or biochemical,12
+Gene expression and omics,Tissue or organ,0
+Gene expression and omics,Organismal physiology,9
+Gene expression and omics,Organismal apical,0
+Gene expression and omics,Population,0
+Gene expression and omics,Community or ecosystem,0
+Reproduction,Molecular,4
+Reproduction,Cellular or biochemical,1
+Reproduction,Tissue or organ,0
+Reproduction,Organismal physiology,5
+Reproduction,Organismal apical,47
+Reproduction,Population,2
+Reproduction,Community or ecosystem,0
+Development and hatching,Molecular,0
+Development and hatching,Cellular or biochemical,0
+Development and hatching,Tissue or organ,0
+Development and hatching,Organismal physiology,0
+Development and hatching,Organismal apical,54
+Development and hatching,Population,0
+Development and hatching,Community or ecosystem,0
+Metabolism and energetics,Molecular,1
+Metabolism and energetics,Cellular or biochemical,1
+Metabolism and energetics,Tissue or organ,0
+Metabolism and energetics,Organismal physiology,35
+Metabolism and energetics,Organismal apical,2
+Metabolism and energetics,Population,0
+Metabolism and energetics,Community or ecosystem,0
+Immune response,Molecular,1
+Immune response,Cellular or biochemical,1
+Immune response,Tissue or organ,0
+Immune response,Organismal physiology,37
+Immune response,Organismal apical,0
+Immune response,Population,0
+Immune response,Community or ecosystem,0
+Endocrine response,Molecular,1
+Endocrine response,Cellular or biochemical,0
+Endocrine response,Tissue or organ,0
+Endocrine response,Organismal physiology,25
+Endocrine response,Organismal apical,0
+Endocrine response,Population,0
+Endocrine response,Community or ecosystem,0

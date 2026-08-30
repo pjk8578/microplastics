@@ -1,0 +1,9 @@
+Check,Observed,Expected,Difference,Status,Interpretation
+Analytical strata sum,158,158,0,PASS,Strict 142 + contextual 16
+Population setting sum,10,10,0,PASS,Laboratory 8 + microcosm 1 + other or unclear 1
+Community report-level count,3,3,0,PASS,B1-078 + B1-127 + B1-166
+Risk-of-bias sum,158,158,0,PASS,Low 3 + some concerns 103 + high 52
+Search-only analytical strata sum,152,152,0,PASS,Strict 137 + contextual 15
+Search-only risk-of-bias sum,152,152,0,PASS,Low 3 + some concerns 98 + high 51
+Broad verification,45,45,0,PASS,Any measured particle or exposure verification
+Chain-aligned verification,15,15,0,PASS,Verification aligned to biological exposure arm

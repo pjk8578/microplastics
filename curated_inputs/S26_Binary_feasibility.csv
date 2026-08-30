@@ -1,0 +1,9 @@
+Metric,Value
+Exact count rows classified as mortality or survival,120
+Reports with mortality or survival count data,24
+Particle-only treatment-control pairs reconstructed,64
+Double-zero treatment-control pairs,36
+Replicate-resolved cluster-valid pairs,2
+Reports contributing cluster-valid nonzero information,1
+Exploratory arm-total pairs,9
+Reports contributing exploratory nonzero information,5

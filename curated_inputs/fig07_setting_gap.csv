@@ -1,0 +1,41 @@
+setting,level,reports,gap_score
+Field,Molecular,0,100
+Field,Cellular or biochemical,0,100
+Field,Tissue or organ,0,100
+Field,Organismal physiology,0,100
+Field,Organismal apical,0,100
+Field,Population,0,100
+Field,Community,0,100
+Field,Ecosystem,0,100
+Laboratory,Molecular,48,22
+Laboratory,Cellular or biochemical,96,8
+Laboratory,Tissue or organ,61,17
+Laboratory,Organismal physiology,95,8
+Laboratory,Organismal apical,142,10
+Laboratory,Population,8,56
+Laboratory,Community,3,72
+Laboratory,Ecosystem,0,100
+Mesocosm,Molecular,0,100
+Mesocosm,Cellular or biochemical,0,100
+Mesocosm,Tissue or organ,0,100
+Mesocosm,Organismal physiology,0,100
+Mesocosm,Organismal apical,0,100
+Mesocosm,Population,0,100
+Mesocosm,Community,0,100
+Mesocosm,Ecosystem,0,100
+Microcosm,Molecular,1,86
+Microcosm,Cellular or biochemical,3,72
+Microcosm,Tissue or organ,1,86
+Microcosm,Organismal physiology,2,78
+Microcosm,Organismal apical,3,72
+Microcosm,Population,1,86
+Microcosm,Community,0,100
+Microcosm,Ecosystem,0,100
+Other or unclear,Molecular,7,58
+Other or unclear,Cellular or biochemical,11,50
+Other or unclear,Tissue or organ,6,61
+Other or unclear,Organismal physiology,10,52
+Other or unclear,Organismal apical,12,48
+Other or unclear,Population,1,86
+Other or unclear,Community,0,100
+Other or unclear,Ecosystem,0,100

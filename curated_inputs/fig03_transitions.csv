@@ -1,0 +1,7 @@
+transition,downstream,upstream
+Uptake/internal dose → suborganismal response,76,76
+Suborganismal response → apical outcome,154,155
+Suborganismal + apical → aligned cohort link,150,154
+Exposure described → uptake/internal dose,76,157
+Apical outcome → population outcome,10,157
+Population outcome → community/ecosystem,0,10

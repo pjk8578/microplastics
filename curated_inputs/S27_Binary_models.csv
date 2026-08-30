@@ -1,0 +1,3 @@
+Outcome,Model,Estimate,SE,CI_low,CI_high,P_value,Tau2,I2,K_reports,Prediction_low,Prediction_high,Risk_ratio,RR_CI_low,RR_CI_high
+Mortality,Replicate-resolved mortality model,1.609437912,1.088864998,-0.524737484,3.743613309,0.139384318,0,0,1,,,5,0.591711,42.250378
+Mortality,Exploratory arm-total mortality model,1.547188905,0.417347757,0.729202333,2.365175477,2.10E-04,0.286617888,30.70672548,5,0.21672551,2.8776523,4.698244391,2.073426044,10.64590677

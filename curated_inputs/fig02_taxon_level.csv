@@ -1,0 +1,71 @@
+taxon,level,records
+Fish,Molecular,243
+Fish,Cellular or biochemical,228
+Fish,Tissue or organ,139
+Fish,Organismal physiology,340
+Fish,Organismal apical,499
+Fish,Population,1
+Fish,Community or ecosystem,0
+Crustacean,Molecular,88
+Crustacean,Cellular or biochemical,64
+Crustacean,Tissue or organ,16
+Crustacean,Organismal physiology,109
+Crustacean,Organismal apical,121
+Crustacean,Population,5
+Crustacean,Community or ecosystem,0
+Amphibian,Molecular,5
+Amphibian,Cellular or biochemical,35
+Amphibian,Tissue or organ,9
+Amphibian,Organismal physiology,43
+Amphibian,Organismal apical,63
+Amphibian,Population,1
+Amphibian,Community or ecosystem,0
+Mollusc,Molecular,14
+Mollusc,Cellular or biochemical,18
+Mollusc,Tissue or organ,8
+Mollusc,Organismal physiology,18
+Mollusc,Organismal apical,53
+Mollusc,Population,1
+Mollusc,Community or ecosystem,0
+Rotifer,Molecular,14
+Rotifer,Cellular or biochemical,17
+Rotifer,Tissue or organ,1
+Rotifer,Organismal physiology,3
+Rotifer,Organismal apical,24
+Rotifer,Population,3
+Rotifer,Community or ecosystem,0
+Aquatic insect,Molecular,7
+Aquatic insect,Cellular or biochemical,3
+Aquatic insect,Tissue or organ,2
+Aquatic insect,Organismal physiology,10
+Aquatic insect,Organismal apical,10
+Aquatic insect,Population,2
+Aquatic insect,Community or ecosystem,0
+Echinoderm,Molecular,1
+Echinoderm,Cellular or biochemical,2
+Echinoderm,Tissue or organ,1
+Echinoderm,Organismal physiology,5
+Echinoderm,Organismal apical,9
+Echinoderm,Population,0
+Echinoderm,Community or ecosystem,0
+Platyhelminth,Molecular,0
+Platyhelminth,Cellular or biochemical,2
+Platyhelminth,Tissue or organ,1
+Platyhelminth,Organismal physiology,4
+Platyhelminth,Organismal apical,7
+Platyhelminth,Population,0
+Platyhelminth,Community or ecosystem,0
+Chelicerate,Molecular,0
+Chelicerate,Cellular or biochemical,0
+Chelicerate,Tissue or organ,0
+Chelicerate,Organismal physiology,0
+Chelicerate,Organismal apical,12
+Chelicerate,Population,0
+Chelicerate,Community or ecosystem,0
+Cnidarian,Molecular,0
+Cnidarian,Cellular or biochemical,0
+Cnidarian,Tissue or organ,0
+Cnidarian,Organismal physiology,1
+Cnidarian,Organismal apical,3
+Cnidarian,Population,0
+Cnidarian,Community or ecosystem,0

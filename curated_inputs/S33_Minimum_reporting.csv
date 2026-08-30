@@ -1,0 +1,8 @@
+Domain,Required_item,Why_required
+Particle characterization,"Polymer identity, size distribution, shape, density, aging and surface chemistry",Defines the stressor and enables cross-study comparison
+Exposure characterization,"Nominal and measured mass and particle-number concentrations, renewal, losses and environmental benchmark",Separates administered from realized exposure
+Experimental design,"Independent unit, number of units, organisms per unit, randomization and shared controls",Prevents pseudoreplication and identifies the correct sampling variance
+Outcome definition,"Operational definition, unit, tissue, life stage, time point and adverse direction",Allows construct-level harmonization
+Statistics,"Group mean, SD or SE, independent n, exact event counts and covariance for repeated measures",Supports valid effect-size reconstruction
+Open evidence,Machine-readable arm-level data and analysis code,Makes cumulative synthesis auditable and reusable
+Cross-scale linkage,"Matched treatment arms and aligned uptake, mechanism and apical endpoints",Enables evidence chains rather than isolated responses

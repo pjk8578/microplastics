@@ -1,0 +1,10 @@
+FINAL ADDED-ANALYSIS SUMMARY
+
+Analytical evidence set: 158
+Strict/contextual: 142/16
+Population reports: 10 = 8 laboratory + 1 microcosm + 1 other/unclear
+Community/ecosystem report-level evidence: 3; conventional endpoint rows: 0
+Broad verification: 45; chain-aligned verification: 15
+Search-only sensitivity: 152 reports = 137 strict + 15 contextual
+Growth synthesis unchanged: 17 reports and 42 comparisons
+Search-only risk of bias: low 3, some concerns 98, high 51

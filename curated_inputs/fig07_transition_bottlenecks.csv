@@ -1,0 +1,6 @@
+transition,retained,upstream
+Population → community/ecosystem,0,10
+Apical outcome → population,10,157
+Exposure characterization → uptake,71,157
+Uptake → internal response,71,71
+Internal response → apical outcome,154,154

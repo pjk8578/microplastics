@@ -1,0 +1,12 @@
+Metric,Full_analytical_corpus,WoS_derived_analytical_corpus,Absolute_change,Interpretation,Source,Status
+Analytical reports,158,152,-6,Expected reduction after excluding six post-search reports.,Traceability registry,PASS
+Strict particle-specific paired reports,142,137,-5,Five of the six post-search reports were strict.,Traceability registry,PASS
+Contextual or non-strict reports,16,15,-1,B1-166 was contextual.,Traceability registry,PASS
+Amphibian reports,12,6,-6,All six post-search reports were amphibian studies.,Study-level table,PASS
+Population-level reports,10,9,-1,B1-166 contributed population-model evidence.,Manual reconciliation registry,PASS
+Community or ecosystem reports,3,2,-1,B1-166 contributed cross-system model evidence.,Manual reconciliation registry,PASS
+Growth-synthesis reports,17,17,0,None of the six reports entered the growth synthesis.,Growth study-balanced input,PASS
+Growth comparisons,42,42,0,None of the six reports entered the growth synthesis.,Growth sensitivity input,PASS
+Low risk of bias,3,3,0,Risk-of-bias distribution remained similar.,Risk-of-bias table,PASS
+Some concerns,103,98,-5,Risk-of-bias distribution remained similar.,Risk-of-bias table,PASS
+High risk of bias,52,51,-1,Risk-of-bias distribution remained similar.,Risk-of-bias table,PASS

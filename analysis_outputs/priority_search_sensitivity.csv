@@ -1,0 +1,21 @@
+Priority_ID,Research_priority,Full_matching_reports,Search_only_matching_reports,Full_evidence_scarcity,Search_only_evidence_scarcity,Full_priority_score,Search_only_priority_score,Search_only_matching_Study_IDs,Search_only_rank
+P20,Standardized cross-scale endpoint packages,1,0,4.5,5,96.8886161197263,99.99999999999997,,1
+P08,Primary production and producer-consumer coupling,0,0,5,5,96.70824410683,96.70824410682994,,2
+P09,Decomposition and detrital processing,0,0,5,5,96.70824410683,96.70824410682994,,3
+P02,Link reproductive impairment to recruitment,2,1,4.5,4.5,93.6992793887944,93.69927938879435,B1-031,4
+P04,Predator-prey interactions under microplastic exposure,1,1,4.5,4.5,93.6992793887944,93.69927938879435,B1-127,5
+P11,Food-web transfer and trophic propagation,1,1,4.5,4.5,93.6992793887944,93.69927938879435,B1-078,6
+P19,Population models parameterized by apical endpoints,2,1,4.5,4.5,93.6992793887944,93.69927938879435,B1-171,7
+P05,Competition and community assembly,0,0,5,5,92.6238198545112,92.62381985451121,,8
+P07,Community mesocosm validation,0,0,5,5,92.6238198545112,92.62381985451121,,9
+P10,Nutrient cycling and biogeochemical fluxes,0,0,5,5,92.6238198545112,92.62381985451121,,10
+P12,Benthic-pelagic coupling,0,0,5,5,92.6238198545112,92.62381985451121,,11
+P17,Functional diversity and ecosystem multifunctionality,0,0,5,5,92.6238198545112,92.62381985451121,,12
+P18,Field validation linking exposure to biological effects,1,1,4.5,4.5,89.7419372542642,89.74193725426426,B1-023,13
+P15,Mixed-polymer and environmentally realistic particle assemblages,1,1,4.5,4.5,84.8726841339099,84.87268413390993,B1-013,14
+P01,Link growth and survival to population growth,8,7,3,3,82.9676660439957,82.9676660439957,B1-020A | B1-047 | B1-104 | B1-106 | B1-112 | B1-128 | B1-139,15
+P06,Host-pathogen and disease dynamics,9,8,3,3,78.4659739796867,78.46597397968665,B1-030 | B1-082 | B1-088 | B1-097 | B1-102 | B1-108 | B1-111 | B1-119,16
+P16,Low-dose chronic exposure with field verification,36,36,1,1,59.6722614181069,59.67226141810689,B1-003 | B1-004 | B1-010 | B1-011 | B1-015 | B1-016 | B1-020A | B1-021 | B1-029 | B1-070 | B1-073 | B1-074 | B1-080 | B1-084 | B1-085 | B1-099 | B1-106 | B1-107 | B1-108 | B1-110 | B1-114 | B1-116 | B1-118 | B1-119 | B1-123 | B1-124 | B1-125 | B1-130 | B1-135 | B1-139 | B1-145 | B1-147 | B1-149 | B1-153 | B1-161 | B1-172,17
+P03,Chronic multigenerational population persistence,25,25,1,1,57.1520333447114,57.15203334471139,B1-001 | B1-003 | B1-004 | B1-005 | B1-012 | B1-016 | B1-017 | B1-018 | B1-019 | B1-024 | B1-056 | B1-063 | B1-066 | B1-074 | B1-096 | B1-099 | B1-100 | B1-105 | B1-120 | B1-125 | B1-129 | B1-139 | B1-140 | B1-147 | B1-151,18
+P13,"Recovery, depuration, and persistence of effects",22,22,1,1,54.5768532128567,54.57685321285675,B1-001 | B1-020B | B1-028 | B1-051 | B1-054 | B1-063 | B1-066 | B1-078 | B1-082 | B1-120 | B1-122 | B1-125 | B1-126 | B1-127 | B1-128 | B1-132 | B1-135 | B1-138 | B1-139 | B1-146 | B1-150 | B1-152,19
+P14,"Weathered, irregular, and biofilmed particles",27,27,1,1,52.7803164309158,52.78031643091576,B1-003 | B1-007 | B1-008 | B1-011 | B1-013 | B1-025 | B1-041 | B1-051 | B1-056 | B1-060 | B1-071 | B1-073 | B1-076 | B1-094 | B1-100 | B1-111 | B1-132 | B1-135 | B1-139 | B1-143 | B1-144 | B1-150 | B1-154 | B1-155 | B1-160 | B1-162 | B1-173,20
